@@ -1,10 +1,10 @@
 Package: chronos
-Title: What the Package Does (One Line, Title Case)
+Title: EXTENDING TIME 
 Version: 0.0.0.9000
 Authors@R: c(
     person("Vivian", "Steiger", , "vivian@viv-analytics.com", role = c("aut", "cre"))
   )
-Description: What the package does (one paragraph).
+Description: Improve your time.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

@@ -2,3 +2,6 @@ url: https://viv-analytics.github.io/chronos/
 template:
   bootstrap: 5
 
+home:
+  sidebar:
+    logo: man/figures/logo.png
