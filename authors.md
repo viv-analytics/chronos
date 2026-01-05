@@ -9,12 +9,11 @@
 Source:
 [`DESCRIPTION`](https://github.com/viv-analytics/chronos/blob/master/DESCRIPTION)
 
-Steiger V (2026). *chronos: What the Package Does (One Line, Title
-Case)*. R package version 0.0.0.9000,
-<https://github.com/viv-analytics/chronos>.
+Steiger V (2026). *chronos: EXTENDING TIME*. R package version
+0.0.0.9000, <https://github.com/viv-analytics/chronos>.
 
     @Manual{,
-      title = {chronos: What the Package Does (One Line, Title Case)},
+      title = {chronos: EXTENDING TIME},
       author = {Vivian Steiger},
       year = {2026},
       note = {R package version 0.0.0.9000},
